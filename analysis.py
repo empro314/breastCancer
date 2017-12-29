@@ -8,5 +8,7 @@ input = pd.read_csv("data/dataCorr/dataCorr.csv", sep=';')
 
 #input["radius_mean"].hist()
 
+input
+
 input["texture_mean"].hist()
 
